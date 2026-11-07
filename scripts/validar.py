@@ -84,7 +84,7 @@ def validar(caminho):
 
 
 if __name__ == "__main__":
-    caminho = sys.argv[1] if len(sys.argv) > 1 else "data/investimentos.csv"
+    caminho = sys.argv[1] if len(sys.argv) > 1 else "investimentos.csv"
     erros, total = validar(caminho)
     if erros:
         print(f"{len(erros)} problema(s) encontrado(s) em {caminho}")
