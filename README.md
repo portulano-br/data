@@ -1,3 +1,4 @@
+
 # Portulano · dados
 
 Base aberta e colaborativa de dados econômicos e industriais do Brasil. O primeiro conjunto reúne investimentos industriais anunciados no país e a situação de cada um, sempre com a fonte que sustenta a informação.
